@@ -18,4 +18,5 @@
 
 ## Запуск игры:
 > [!NOTE]
-> g++ tictac1.cpp -o tictac и ./tictac
+> g++ tictac1.cpp -o tictac
+> ./tictac
