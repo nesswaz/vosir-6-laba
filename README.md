@@ -17,4 +17,5 @@
 - **Галина Алина** - Пользовательский интерфейс
 
 ## Запуск игры:
-g++ tictac1.cpp -o tictac и ./tictac
+> [!NOTE]
+> g++ tictac1.cpp -o tictac и ./tictac
