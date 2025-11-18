@@ -18,4 +18,4 @@
 
 ## Запуск игры:
 g++ tictac1.cpp -o tictac
-./tictac
+ ./tictac
