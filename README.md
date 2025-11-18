@@ -1,8 +1,6 @@
 # vosir-6-laba
 6 групповая лаба по ВОСИР ИТ-15,16
 
-
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 # Игра крестики нолики!
 
 ## Описание игры:
@@ -21,4 +19,5 @@
 ## Запуск игры:
 > [!NOTE]
 > g++ tictac1.cpp -o tictac
+> 
 > ./tictac
